@@ -1,14 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ff84991-4840-4e9d-a7b6-ff7da883936a" name="Changes" comment="" />
+    <list default="true" id="0ff84991-4840-4e9d-a7b6-ff7da883936a" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/src/e2/ExampleBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e3/ExampleArrayRec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e4/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e4/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e4/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e5/Head.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e5/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e5/Tail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e6/ExampleHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e7/ExampleArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e7/ExampleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2R1jueyPhOlL42NhfLMYVRoSSO7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,19 +41,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.example5">
-    <configuration name="example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="e1.example1" />
+}</component>
+  <component name="RunManager" selected="Application.Example">
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="e8.Example" />
       <module name="LR11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="e1.*" />
+          <option name="PATTERN" value="e8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -36,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="e1.example2" />
+    <configuration name="ExampleArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="e7.ExampleArrayList" />
       <module name="LR11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="e1.*" />
+          <option name="PATTERN" value="e7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -49,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="e1.example3" />
+    <configuration name="ExampleHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="e6.ExampleHashMap" />
       <module name="LR11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="e1.*" />
+          <option name="PATTERN" value="e6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="e1.example4" />
+    <configuration name="ExampleLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="e7.ExampleLinkedList" />
       <module name="LR11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="e1.*" />
+          <option name="PATTERN" value="e7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="e1.example5" />
+    <configuration name="Tail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="e5.Tail" />
       <module name="LR11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="e1.*" />
+          <option name="PATTERN" value="e5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.example5" />
-        <item itemvalue="Application.example4" />
-        <item itemvalue="Application.example3" />
-        <item itemvalue="Application.example2" />
-        <item itemvalue="Application.example1" />
+        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.ExampleLinkedList" />
+        <item itemvalue="Application.ExampleArrayList" />
+        <item itemvalue="Application.ExampleHashMap" />
+        <item itemvalue="Application.Tail" />
       </list>
     </recent_temporary>
   </component>
@@ -107,6 +132,25 @@
       <option name="presentableId" value="Default" />
       <updated>1686424706122</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1686425016293</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686425016293</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1686425032546</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686425032546</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
